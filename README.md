@@ -169,8 +169,9 @@ At last, after successfully submitting a pull request you can view your work liv
 
 <h2 align= "center">Project Mentors 👩‍💻</h2>
 <p align="center">	
-<a href="https://github.com/Dharmesh177"><img src="https://github.com/iqrafirdose/Code-Canvas/assets/114678694/d61cc205-fddf-4389-a497-c9b15148b545" width="10%" />   </a>   <a href="https://github.com/artimanputra/"><img src="https://github.com/iqrafirdose/Code-Canvas/assets/114678694/1b128b14-ddfa-49d8-9be2-a166ddba6df6" width="10%" height="100" /></a>
+<a href="https://github.com/Dharmesh177"><img src="https://avatars.githubusercontent.com/u/77879603?v=4" width="10%" />   </a>   <a href="https://github.com/artimanputra/"><img src="https://avatars.githubusercontent.com/u/79042027?v=4" width="10%"/></a>
 
+	
 <br>
 <a href="https://github.com/Dharmesh177"><strong>Dharmesh Vala</strong></a> &ensp;                  
 <a href="https://github.com/artimanputra/"><strong> Arti Manputra</strong></a>
